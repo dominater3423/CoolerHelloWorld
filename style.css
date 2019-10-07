@@ -1,7 +1,17 @@
 body {
+	background-color: #1F2338;
+	color: white;
 	font-family: dejavu;
 }
 
-h1 {
-	color: #020056;
+#NavMenu {
+	border: 2px solid white;
+	width: 200px;	
+	border-radius: 25px;
+	padding: 10px;
+}
+
+a:link {
+	no-decoration: none;
+	color: white;
 }
