@@ -11,7 +11,12 @@ body {
 	padding: 10px;
 }
 
-a:link {
+a {
 	no-decoration: none;
 	color: white;
+}
+
+#Contents {
+	padding-left:200px;
+	padding-right:200px;
 }
